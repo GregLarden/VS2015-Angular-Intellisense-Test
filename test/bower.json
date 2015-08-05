@@ -1,0 +1,50 @@
+{
+  "name": "Clinical.Fab.Web",
+  "version": "2.0.0",
+  "authors": [
+    "Greg Larden"
+  ],
+  "license": "Sickkids.ca",
+  "homepage": "wwww.sickkids.ca",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "respond": "^1.4.2",
+    "bootstrap": "^3.3.5",
+    "font-awesome": "^4.3.0",
+    "toastr": "^2.1.1",
+    "jquery": "^2.1.4",
+    "moment": "^2.10.3",
+    "angular": "^1.4.3",
+    "angular-animate": "^1.4.3",
+    "angular-route": "1.4.3",
+    "angular-messages": "^1.4.3",
+    "angular-mocks": "^1.4.3",
+    "angular-resource": "^1.4.3",
+    "angular-sanitize": "^1.4.3",
+    "angular-ui-router": "^0.2.15",
+    "angular-ui-grid": "^3.0.1",
+    "angular-ui-select": "^0.12.0",
+    "select2-bootstrap-css": "^1.4.6",
+    "modernizr": "^2.8.3",
+    "breeze-client": "^1.5.4",
+    "breeze-client-labs": "^1.5.8",
+    "signalr": "^2.2.0",
+    "bootstrap-daterangepicker": "~2.0.2",
+    "angular-daterangepicker": "~0.1.16",
+    "angular-modal-service": "*",
+    "extras.angular.plus": "*"
+      
+  },
+  "resolutions": {
+    "angular": "1.4.3",
+    "moment": ">=2.9.0",
+    "bootstrap-daterangepicker": "~2.0.2"
+  }
+}
